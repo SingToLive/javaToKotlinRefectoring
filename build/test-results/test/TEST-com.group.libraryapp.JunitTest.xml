@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.group.libraryapp.JunitTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-09-09T14:40:03" hostname="STLGRAM" time="0.006">
+  <properties/>
+  <testcase name="test1()" classname="com.group.libraryapp.JunitTest" time="0.004"/>
+  <testcase name="test2()" classname="com.group.libraryapp.JunitTest" time="0.001"/>
+  <system-out><![CDATA[before all test
+before test
+1
+after test
+before test
+2
+after test
+after all test
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
