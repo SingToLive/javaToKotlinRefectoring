@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.group.libraryapp.calculator.JuitCaculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-09T14:40:03" hostname="STLGRAM" time="0.072">
+<testsuite name="com.group.libraryapp.calculator.JuitCaculatorTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-09-20T14:29:05" hostname="STLGRAM" time="0.093">
   <properties/>
-  <testcase name="divideTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.063"/>
+  <testcase name="divideTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.073"/>
   <testcase name="addTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.0"/>
   <testcase name="multiplyTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.0"/>
-  <testcase name="divideExceptionTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.006"/>
+  <testcase name="divideExceptionTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.017"/>
   <testcase name="minusTest()" classname="com.group.libraryapp.calculator.JuitCaculatorTest" time="0.0"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
